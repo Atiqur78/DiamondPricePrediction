@@ -1,0 +1,3 @@
+[ 2024-04-28 11:42:46,298 ] 23 root - INFO - Data Ingestion method starts
+[ 2024-04-28 11:42:46,514 ] 27 root - INFO - Dataset read as pandas Dataframe
+[ 2024-04-28 11:42:46,517 ] 45 root - INFO - Error Occured

@@ -1,0 +1,6 @@
+[ 2024-04-28 15:51:16,437 ] 22 root - INFO - Data Ingestion method starts
+[ 2024-04-28 15:51:16,707 ] 26 root - INFO - Dataset read as pandas Dataframe
+[ 2024-04-28 15:51:16,709 ] 41 root - INFO - Error Occured: [Errno 13] Permission denied: 'artifacts\\raw_data.csv'
+[ 2024-04-28 15:51:16,977 ] 22 root - INFO - Data Ingestion method starts
+[ 2024-04-28 15:51:17,156 ] 26 root - INFO - Dataset read as pandas Dataframe
+[ 2024-04-28 15:51:17,158 ] 41 root - INFO - Error Occured: [Errno 13] Permission denied: 'artifacts\\raw_data.csv'

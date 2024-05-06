@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DiamondPricePrediction
+Version: 0.1
+Author: Atiqur
+Author-email: atikurrahman209@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
+Requires-Dist: scikit-learn
